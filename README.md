@@ -1,27 +1,60 @@
-# MyAngApp
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
-
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Angular-toDos
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+I Built a to-do list that will allow the user to insert new tasks and delete them.
 
-## Build
+![screenshot](./src/img/ss.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Built With
 
-## Running unit tests
+- Angular
+- TypeScript
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Getting Started
 
-## Running end-to-end tests
+**To get started you can download the code by pressing in the top right corner on the green button**
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice.
+> To get a local copy up and running follow these simple example steps.
 
-## Further help
+### Prerequisites
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Npm installed on your computer
+- Node as well
+- Angular as well
+
+### Install
+
+> Once you have downloaded the code please open you terminal and paste in this code
+> `git clone https://github.com/hamayun-cpu/Angular-toDos.git`
+
+### Usage
+
+> In order to run the app once you have already installed it please run this command in your terminal
+> `ng serve`
+> Navigate to `http://localhost:4200/
+> this will open a new browser with the app ready to use.
+
+## Authors
+
+👤 **Hamayun Waheed**
+
+- Github: [@githubhandle](https://github.com/hamayun-cpu)
+- Twitter: [@twitterhandle](https://twitter.com/hamayun_waheed?s=09&fbclid=IwAR0rfO9cMDDeCX8LfXf4cCNQDrL4LpJ02Q2csWhcT-VtMQ0Cy9EgTB4Wq8E)
+- Linkedin: [linkedin](https://www.linkedin.com/in/hamayun-waheed-3527381b2/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/hamayun-cpu/Angular-toDos/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.

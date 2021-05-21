@@ -6,7 +6,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 I Built a to-do list that will allow the user to insert new tasks and delete them.
 
-![screenshot](./src/img/ss.png)
+![screenshot](./src/assets/ss.png)
 
 ## Built With
 
